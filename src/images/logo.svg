@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-    <title>logo</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="logo-container" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo">
-            <polygon id="shadow" fill="#DDB860" points="232.76 64 190.2 159.68 147 64 77.56 64 158.84 211.52 158.84 280 221.56 280 221.56 211.52 302.2 64"></polygon>
-            <polygon id="Y" fill="#FFFFFF" points="217.76 54 175.2 149.68 132 54 62.56 54 143.84 201.52 143.84 270 206.56 270 206.56 201.52 287.2 54"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350" height="350" version="1.1" viewBox="0 0 350 350"><title>logo</title><desc>Created with Sketch.</desc><g id="logo-container" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="logo"><polygon id="shadow" fill="#DDB860" points="232.76 64 190.2 159.68 147 64 77.56 64 158.84 211.52 158.84 280 221.56 280 221.56 211.52 302.2 64"/><polygon id="Y" fill="#FFF" points="217.76 54 175.2 149.68 132 54 62.56 54 143.84 201.52 143.84 270 206.56 270 206.56 201.52 287.2 54"/></g></g></svg>
