@@ -20,7 +20,7 @@
     "@fortawesome/react-fontawesome": "^0.0.18",
     "cross-env": "^5.0.5",
     "localforage": "^1.5.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "npm-run-all": "^4.1.1",
     "prop-types": "^15.5.10",
     "react": "^16.1.1",
